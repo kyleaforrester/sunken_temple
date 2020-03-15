@@ -1,47 +1,48 @@
 1) Crowd Favorite - Take a -1 penalty to all future rolls. If you survive the temple, you are the winner.  All other players immediately die, even if they have already completed the temple.
 2) Paranoid - Gain an additional discovery each turn.
-3) Daredevil - Gain +1 to your roll if blind moving into an undiscovered card.
+3) Daredevil - Gain +2 to your roll if blind moving into an undiscovered card.
 4) Voodoo Mon - Select a player during your turn.  That player takes a -1 penalty on their next roll.
-5) Temple Engineer - The card you are in will not collapse as long as it has at least two supports.
-6) Chaos Theory - You may 'undiscover', or turn upside down, any number of adjacent cards during your turn.
+5) Temple Engineer - The card you are in will not collapse as long as it has at least one support.
+6) Chaos Theory - You may 'undiscover', or turn upside down, any number of adjacent cards during your turn.  You may use this power before and after moving.
 7) Temple Runner - Successfully moving into an undiscovered card refunds the move action to your current turn.
 8) The Drowned God - Spades act as a combination of Diamonds and Clubs.  Instead of dying to a spade, you will now lose your next turn and take a -1 wound.
 9) Kaio Ken - Gain +9000 to your next roll.  You may only use this power once.
-10) Head Start - You get the first 4 turns of the game.
+10) Head Start - You get the first 5 turns of the game.
 11) Flatulence - Other players take a -2 penalty to rolls if standing in the same card as you.
 12) Barricades - Other players must roll a 12 to enter a Joker/Exit.
 13) Snake Eyes - If at least two of your dice are '1' from your previous roll, you may reroll all your dice.
 14) Achy Breaky Hearts - Other players take a -1 to their roll when moving into a heart.
-15) Entomb - Select an adjacent non-Joker card that is unoccupied.  Permanently remove that card from the temple. You may only use this power once.
-16) Berserker - You may spend your move action to instead attack a player in the same card as you.  That player now has a -1 wound.
+15) Entomb - Select an adjacent discovered non-Joker card that is unoccupied.  Permanently remove that card from the temple. You may only use this power once.
+16) Berserker - You may spend your move action to instead attack a player in the same card as you.  That player takes a -1 wound.
 17) Nein Nein Nein - Other players are not allowed to move into any card of value '9'.
 18) Booby Traps - Before the game begins, secretly record the value and suit of 3 non-Joker cards of your choice. These cards are now booby-trapped; the first players (including yourself) to enter these cards lose their next two turns and take a -2 wound.
-19) Cretan Labyrinth - Before the game begins, select a new token and place it on the initial Joker.  This token represents the Minotaur.  After each of your turns, the Minotaur randomly moves to an adjacent card.  The Minotaur will kill and devour any other player he contacts; you are immune to the Minotaur.
+19) Cretan Labyrinth - Before the game begins, select a new token and place it on any card or card slot.  This token represents the Minotaur.  After each of your turns, the Minotaur randomly moves to an adjacent card.  The Minotaur will kill and devour any other player he contacts; you are immune to the Minotaur.
 20) Love Potion - Before the game begins, select two other players.  You have slipped these players a love potion, and they have fallen in love with each other.  These players are not allowed to move farther than 3 moves from each other, until death do them part.
 21) Foul Mouth - Select a player during your turn.  Yell an insult at that player that echoes through the temple, and roll a die.  If the value of the die is '6', that player is deeply hurt by your insult and loses their next turn.
 22) Daredevilier - Every turn you have the option to move again.  Take a -3 penalty to your second roll, treat the second card as a spade.
 23) 4th Dimension Chess - Reverse the values of all cards only for yourself.  You may only use this power once, and the effects are permanent.
-24) Bob the Builder - On your turn you may build an impassible wall between any two non-Joker cards.  You may only use this power once.
+24) Bob the Builder - On your turn you may build an impassible wall between any two discovered non-Joker cards.  You may only use this power once.
 25) Lucky Number Sleven - If 3 cards of value '7' are discovered, you alone may exit the temple through a '7'.
 26) Heart of Davy Jones - Name a card at the beginning of the game.  Gain a +1 bonus to your rolls while the card is undiscovered.  Take a -1 penalty to all rolls if the card is discovered.
 27) The Kamehameha - You may sacrifice your move action this turn to gain a stacking +1 bonus to your next roll.  The bonus is lost upon rolling or moving.
-28) Portal - You may switch two discovered cards in the temple as long as they are the same value.  This power has a 2 turn cooldown.
-29) Loaded Dice - You may reduce your next roll by an amount of your choice.  If you succeed, everyone else's next rolls are also reduced by the same amount.  This power has a 2 turn cooldown.
+28) Portal - You may spend your move action to switch two discovered cards in the temple as long as they are the same value.
+29) Loaded Dice - You may spend your discover action to reduce your next roll by an amount of your choice.  If you succeed your roll, everyone else's next rolls are also reduced by the same amount.
 30) The Gambler - If the last 4 cards you have stepped on form a straight, you immediately exit the temple.
 31) Seer - Instead of a discovery action you may secretly peek at any undiscovered card in the temple.  Return that card face-down once done.
 32) Blood Magic - You may inflict a -1 wound on yourself.  If you do, gain an extra die for your next roll if neither the origin or destination cards are hearts.
-33) Martyr - If one of your dice from the last roll is of value '6', you may pickup that die and one other and reroll those two.
+33) Martyr - If one of your dice from the last roll is of value '6', you may pickup that die and any other die to reroll.
 34) Thrill Seeker - Gain +1 to your roll if moving into a higher value card.  Take a -1 penalty to your roll if moving into a lower value card.
 35) Well Rested - Sleep in and miss your first 4 turns of the game.  Gain +1 to all your rolls the rest of the game.
 36) Oogie Boogie - You may cast Oogie Boogie's die at the beginning of your turn: 6: +3 to next roll. 5: +2 to next roll. 4: +1 to next roll. 3: No effect. 2: Lose your turn. 1: Lose 2 turns.
 37) Pokemon Master - You may use one pokemon power per turn: Magikarp, Surf!: Gain a +1 to next roll if your card has 3 or less supports. Metapod, Harden!: Spend your move action to heal one wound. Sandshrew, SandBlast!: All players currently in the same card as you cannot discover until your next turn.
 38) Meditation - At the beginning of your turn you may choose to meditate.  If you do, your discovery and move actions are moved to your next turn and your current turn ends.  Does not stack.
-39) Carnival Worker - Before discovering a card, you may first guess the suit and value of that card.  If you are correct, gain +9000 to your next roll.
+39) Portal 2 - You may spend your move action to teleport from your current card to any other discovered card of the same value.  No roll required.
 40) Quantum Superposition - You may split yourself into 2 tokens.  Tokens may move apart.  Tokens share the single move and discovery actions. Wounds, death, and other effects affect both tokens.  Upon contacting another player or your own decision, become whole again and discard the other token.
 41) It's Alive - Upon your first spades death, Dr. Frankenstein ressurects you as an undead monster.  As a monster, at the start of each turn you have a 50% chance to lose the whole turn.  Monsters have +1 to all rolls.
 42) Nosferatu - Upon your first spades death, lose your next 2 turns then ressurect as a Vampire.  As a vampire, you may bite a target player in the same card as you, which gives you +1 to your next roll and gives a -1 wound to the target.  Vampires cannot enter hearts.
 43) Hyrule Gem Collector - Stepping onto the following cards gives you powers: Goron Ruby (10D): +1 to all rolls. Kokiri Emerald (10H): Ignore other players' card occupations. Zora Sapphire (10C): Entering a card with 3 or less supports refunds move action.
 44) Lycanthrope - Stepping onto a Spade transforms you into a Werewolf.  As a werewolf, at the end of your turn deal out a -1 wound to each player in the same card as you. Stepping onto a Heart transforms you back to a human.
+45) Turbo Boots - At the beginning of your turn you may gain up to 3 move actions.  You may only use this power once.
 
 
 
