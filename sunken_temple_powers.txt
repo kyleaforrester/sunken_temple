@@ -50,16 +50,17 @@
 50) Fantastic Four - When rolling dice for a move check, your opponents must reroll every dice of value 4.
 51) Social Distancing - When moving into an occupied card, your opponents take an additional -1 penalty to their roll.
 52) Masochist - If you are wounded, start each turn with an additional N-1 move actions, where N is the number of wounds you have.
+53) Lone Wolf - If no opponents are within two moves of your current card, gain a +1 to your move roll.
 
 
 
 
 Easier:
-2,3,5,8,9,13,23,25,26,27,32,33,34,35,37,39,41,43,45,46,47
+2,3,5,8,9,13,23,25,26,27,32,33,34,35,37,39,41,43,46,53
 Harder:
 1,4,6,11,12,14,15,16,17,18,19,20,21,24,29,42,44,48,49,50,51
 Neutral:
-7,10,22,28,30,31,36,38,40,52
+7,10,22,28,30,31,36,38,40,45,47,52
 
 
 
