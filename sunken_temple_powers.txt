@@ -46,7 +46,7 @@
 46) The Wolverine - You may spend your move action to heal all wounds.
 47) Total Recall - You may spend your discover action to create a recall beacon in your current card; this will destroy any existing recall beacons.  You may spend your move action to teleport back to the recall beacon's card.
 48) Herculean Strength - You may spend your move action to roll a dice.  If the value of the dice is 3 or greater, you may throw an opponent from the same card as you into any adjacent discovered card.  The thrown player does not need a roll check.
-49) It's Time to Duel! - At the end of your turn you may challenge an opponent in the same card as you to a duel.  You each roll one dice. The higher roller wins and the loser loses their next turn.  You win a draw.
+49) It's Time to Duel! - At the end of your turn you may challenge an opponent in the same card as you to a duel.  You each roll one dice. The higher roller wins and the loser loses their next turn.  You get a +1 to this duel roll, and you win a draw.
 50) Fantastic Four - When rolling dice for a move check, your opponents must reroll every dice of value 4.
 51) Social Distancing - When moving into an occupied card, your opponents take an additional -1 penalty to their roll.
 52) Masochist - If you are wounded, start each turn with an additional N-1 move actions, where N is the number of wounds you have.
