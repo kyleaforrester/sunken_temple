@@ -51,16 +51,25 @@
 51) Social Distancing - When moving into an occupied card, your opponents take an additional -1 penalty to their roll.
 52) Masochist - If you are wounded, start each turn with an additional N-1 move actions, where N is the number of wounds you have.
 53) Lone Wolf - If no opponents are within two moves of your current card, gain a +1 to your move roll.
+54) Quicksilver - Take a permanent -1 penalty on all move checks. Start each turn with an extra move action.
+55) Shin Splints - Each turn you have the option to use an additional move action.  If you do, take a -1 wound after this extra move.  You cannot use this extra move to enter a Joker, an undiscovered card, or a Heart.
+56) Best Friend - At the start of the game designate another player.  That player is your best friend.  Gain a +1 to each move check when either in the same card or adjacent card to your friend.
+57) Sympathy Pains - At the start of the game designate another player.  Whenever you receive a wound, that player is also wounded for the same amount.  You may spend a move action to target a different player instead for Sympathy Pains.
+58) Pits of Despair - Whenever you enter a Spade, all Spades on the map explode.  Other players standing on a Spade lose their next turn and take a -1 wound.
+59) Area 51 - At the start of the game designate two undiscovered cards that are not in the Joker column with a token.  You are the only player allowed to enter these two cards.
+60) Maginot Line - At the start of the game, designate a non-Joker column of cards to be the Maginot Line.  All other players receive a -2 penalty when move checking into any card in this column.
+61) Jackpot - If your move check equals the value card you are moving into, your move action is refunded this turn.
+62) Edgelord - For every 2 unique Spade cards you step on, gain a permanent +1 to move checks.
 
 
 
 
 Easier:
-2,3,5,8,9,13,23,25,26,27,32,33,34,35,37,39,41,43,46,53
+2,3,5,8,9,13,23,25,26,27,32,33,34,35,37,39,41,43,46,53,56,62
 Harder:
-1,4,6,11,12,14,15,16,17,18,19,20,21,24,29,42,44,48,49,50,51
+1,4,6,11,12,14,15,16,17,18,19,20,21,24,29,42,44,48,49,50,51,54,57,58,59,60
 Neutral:
-7,10,22,28,30,31,36,38,40,45,47,52
+7,10,22,28,30,31,36,38,40,45,47,52,55,61
 
 
 
