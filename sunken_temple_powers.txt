@@ -60,6 +60,7 @@
 60) Maginot Line - At the start of the game, designate a non-Joker column of cards to be the Maginot Line.  All other players receive a -2 penalty when move checking into any card in this column.
 61) Jackpot - If your move check equals the value card you are moving into, your move action is refunded this turn.
 62) Edgelord - For every 2 unique Spade cards you step on, gain a permanent +1 to move checks.
+63) The Number of the Beast - Immediately after the 3rd card of value '6' has been discovered in the temple, place a new token on that card to represent the 'Beast'.  You control the Beast and may sacrifice your discovery action to give the Beast a move action to perform during your turn.  The Beast moves/wounds/dies like a regular player.  If the Beast touches another player, they die.
 
 
 
