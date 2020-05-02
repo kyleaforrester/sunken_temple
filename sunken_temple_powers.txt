@@ -42,15 +42,15 @@
 42) Nosferatu - Upon your first spades death, lose your next 2 turns then ressurect as a Vampire.  As a vampire, you may bite a target player in the same card as you, which gives you +1 to your next roll and gives a -1 wound to the target.  Vampires cannot enter hearts.
 43) Hyrule Gem Collector - Stepping onto the following cards gives you powers: Goron Ruby (10D): +1 to all rolls. Kokiri Emerald (10H): Ignore other players' card occupations. Zora Sapphire (10C): Entering a card with 3 or less supports refunds move action.
 44) Lycanthrope - Stepping onto a Spade transforms you into a Werewolf.  As a werewolf, at the end of your turn deal out a -1 wound to each player in the same card as you. Stepping onto a Heart transforms you back to a human.
-45) Turbo Boots - At the beginning of your turn you may gain up to 3 move actions.  You may only use this power once.
+45) Turbo Boots - You may start your turn with 3 move actions.  You may only use this power once.
 46) The Wolverine - You may spend your move action to heal all wounds.
 47) Total Recall - You may spend your discover action to create a recall beacon in your current card; this will destroy any existing recall beacons.  You may spend your move action to teleport back to the recall beacon's card.
 48) Herculean Strength - You may spend your move action to roll a dice.  If the value of the dice is 3 or greater, you may throw an opponent from the same card as you into any adjacent discovered card.  The thrown player does not need a roll check.
 49) It's Time to Duel! - At the end of your turn you may challenge an opponent in the same card as you to a duel.  You each roll one dice. The higher roller wins and the loser loses their next turn.  You get a +1 to this duel roll, and you win a draw.
 50) Fantastic Four - When rolling dice for a move check, your opponents must reroll every dice of value 4.
 51) Social Distancing - When moving into an occupied card, your opponents take an additional -1 penalty to their roll.
-52) Masochist - If you are wounded, start each turn with an additional N-1 move actions, where N is the number of wounds you have.
-53) Lone Wolf - If no opponents are within two moves of your current card, gain a +1 to your move roll.
+52) Masochist - If you are wounded, start each turn with an additional N-1 move actions and N-1 discover actions, where N is the number of wounds you have.
+53) Lone Wolf - If no opponents are in or adjacent to your current card, gain a +1 to your move roll.
 54) Quicksilver - Take a permanent -1 penalty on all move checks. Start each turn with an extra move action.
 55) Shin Splints - Each turn you have the option to use an additional move action.  If you do, take a -1 wound after this extra move.  You cannot use this extra move to enter a Joker, an undiscovered card, or a Heart.
 56) Best Friend - At the start of the game designate another player.  That player is your best friend.  Gain a +1 to each move check when either in the same card or adjacent card to your friend.
