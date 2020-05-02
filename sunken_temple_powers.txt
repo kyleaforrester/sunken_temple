@@ -27,7 +27,7 @@
 27) The Kamehameha - You may sacrifice your move action this turn to gain a stacking +1 bonus to your next roll.  The bonus is lost upon rolling or moving.
 28) Portal - You may spend your move action to switch two discovered cards in the temple as long as they are the same value.
 29) Loaded Dice - You may spend your discover action to reduce your next roll by an amount of your choice.  If you succeed your roll, everyone else's next rolls are also reduced by the same amount.
-30) The Gambler - If the last 4 cards you have stepped on form a straight, you immediately exit the temple.
+30) Sadism - Each time another player dies or is wounded, gain one of the following of your choice to your next turn: an extra discovery action, an extra move action, or a +1 to your next move check.
 31) Seer - Instead of a discovery action you may secretly peek at any undiscovered card in the temple.  Return that card face-down once done.
 32) Blood Magic - You may inflict a -1 wound on yourself.  If you do, gain an extra die for your next roll if neither the origin or destination cards are hearts.
 33) Martyr - If one of your dice from the last roll is of value '6', you may pickup that die and any other die to reroll.
