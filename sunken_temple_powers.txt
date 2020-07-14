@@ -7,7 +7,7 @@
 7) Temple Runner - Successfully moving into an undiscovered card refunds the move action to your current turn.
 8) The Drowned God - Spades act as a combination of Diamonds and Clubs.  Instead of dying to a spade, you will now lose your next turn and take a -1 wound.
 9) Kaio Ken - Gain +9000 to your next roll.  You may only use this power once.
-10) Head Start - You get the first 5 turns of the game.
+10) Head Start - You get the first 5 turns of the game. Play then continues with the player who would have gone first originally.
 11) Flatulence - Other players take a -2 penalty to rolls if standing in the same card as you.
 12) Barricades - Other players must roll a 12 to enter a Joker/Exit.
 13) Snake Eyes - If at least two of your dice are '1' from your previous roll, you may reroll all your dice.
@@ -19,7 +19,7 @@
 19) Cretan Labyrinth - Before the game begins, select a new token and place it on any card or card slot.  This token represents the Minotaur.  After each of your turns, the Minotaur randomly moves to an adjacent card.  The Minotaur will kill and devour any other player he contacts; you are immune to the Minotaur.
 20) Love Potion - Before the game begins, select two other players.  You have slipped these players a love potion, and they have fallen in love with each other.  These players are not allowed to move farther than 3 moves from each other, until death do them part.
 21) Foul Mouth - Select a player during your turn.  Yell an insult at that player that echoes through the temple, and roll a die.  If the value of the die is '6', that player is deeply hurt by your insult and loses their next turn.
-22) Daredevilier - Every turn you have the option to move again.  Take a -3 penalty to your second roll, treat the second card as a spade.
+22) Daredevilier - Every turn you have the option to move again.  Take a -3 penalty to your second roll, treat the second card as a spade. You may not use the extra move to enter a Joker.
 23) 4th Dimension Chess - Reverse the values of all cards only for yourself.  You may only use this power once, and the effects are permanent.
 24) Bob the Builder - On your turn you may build an impassible wall between any two discovered non-Joker cards.  You may only use this power once.
 25) Lucky Number Sleven - If 3 cards of value '7' are discovered, you alone may exit the temple through a '7'.
