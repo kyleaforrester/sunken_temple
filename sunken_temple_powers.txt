@@ -56,7 +56,7 @@
 56) Best Friend - At the start of the game designate another player.  That player is your best friend.  Gain a +1 to each move check when either in the same card or adjacent card to your friend.
 57) Sympathy Pains - At the start of the game designate another player.  Whenever you receive a wound, that player is also wounded for the same amount.  You may spend a move action to target a different player instead for Sympathy Pains.
 58) Pits of Despair - Whenever you enter a Spade, all Spades on the map explode.  Other players standing on a Spade lose their next turn and take a -1 wound.
-59) Area 51 - At the start of the game designate two undiscovered cards that are not in the Joker column with a token.  You are the only player allowed to enter these two cards.
+59) Area 51 - At the start of the game designate two undiscovered cards from different columns that are neither in the Joker column.  Place tokens on these two cards; you are the only player allowed to enter them.
 60) Maginot Line - At the start of the game, designate a non-Joker column of cards to be the Maginot Line.  All other players receive a -2 penalty when move checking into any card in this column.
 61) Jackpot - If your move check equals the value card you are moving into, your move action is refunded this turn.
 62) Edgelord - For every 2 unique Spade cards you step on, gain a permanent +1 to move checks.
